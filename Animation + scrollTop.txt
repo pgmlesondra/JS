@@ -1,0 +1,5 @@
+
+Requires: JQUERY
+
+
+$('html, body').animate({scrollTop: $('.more_facts_holder').offset().top - $('html, body').offset().top}, "slow");  
